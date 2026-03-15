@@ -70,7 +70,7 @@ Ultrasonic ECHO| 2
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/esp32-pothole-detection.git
+git clone https://github.com/shamilslk/esp32-pothole-detection.git
 
 2. Open the project in Arduino IDE
 
