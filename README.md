@@ -81,4 +81,4 @@ The ESP32 processes distance data and controls the motors to **avoid potholes au
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/esp32-pothole-detection.git
+git clone https://github.com/shamilslk/esp32-pothole-detection.git
